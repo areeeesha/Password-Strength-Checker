@@ -145,10 +145,4 @@ Potential enhancements include:
 
 **Areesha Tahir**
 
-Cybersecurity Intern | Computer Science Student | Python Developer
 
----
-
-## License
-
-This project is intended for educational purposes and was developed as part of a cybersecurity internship project at Decode Labs.
